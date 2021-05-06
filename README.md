@@ -1,4 +1,4 @@
-# Instrucoes-Para-Clonar-Projetos-PlatformIO
+# Instrucoes Para Clonar Projetos PlatformIO
 Esse repositório descreve como clonar os projetos desenvolvidos no VSCode/PlatformIO
 
 1. Instale o [VS Code](https://code.visualstudio.com/) Se já não tiver instalado.
