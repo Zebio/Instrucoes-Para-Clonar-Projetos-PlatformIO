@@ -19,7 +19,7 @@ Esse repositório descreve como clonar os projetos desenvolvidos no VSCode/Platf
 4. Abra o Projeto
    1. Abra a extensão PlatformIO
    1. Em "PlatformIO Home" vá na opção "Open"
-   1. Vá em "Open Project", navegue até a pasta em que o projeto foi clonado em 3) iii. e abra o projeto.
+   1. Vá em "Open Project", navegue até a pasta em que o projeto foi clonado em (3.iii) e abra o projeto.
    
     ![](imagens/passo4.png)
     
